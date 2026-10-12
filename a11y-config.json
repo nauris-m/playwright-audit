@@ -1,0 +1,12 @@
+{
+  "loginUrl": "https://somesite.com/web/login",
+  "defaultRoutes": [
+    "https://somesite.com/web/route1",
+    "https://somesite.com/web/route2"
+  ],
+  "credentials": {
+    "username": "username",
+    "password": "password"
+  }
+}
+

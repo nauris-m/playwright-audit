@@ -1,0 +1,16 @@
+{
+  "name": "playwright-audit",
+  "version": "1.0.0",
+  "description": "Automated accessibility testing suite using Playwright, Axe-core, and Lighthouse.",
+  "private": true,
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.8.0",
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^25.0.2",
+    "playwright-lighthouse": "^4.0.0",
+    "typescript": "^5.3.0"
+  }
+}
